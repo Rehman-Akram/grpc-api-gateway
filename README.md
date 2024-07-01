@@ -3,7 +3,7 @@ This is api gateway for following micro services.
  # Repositories
 
  1. Auth micro service: https://github.com/Rehman-Akram/grpc-auth-svc
- 2. Product micro service:
+ 2. Product micro service: https://github.com/Rehman-Akram/grpc-product-svc
  3. Order micro service:
  4. Shared proto repo: https://github.com/Rehman-Akram/grpc-nest-proto
 
