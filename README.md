@@ -1,5 +1,8 @@
 This is api gateway for following micro services. 
 
+ # Medium link
+https://medium.com/@rehmanakram03/microservices-communication-api-gateway-pattern-using-grpc-a165c7425bfb
+
  # Repositories
 
  1. Auth micro service: https://github.com/Rehman-Akram/grpc-auth-svc
